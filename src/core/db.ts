@@ -13,7 +13,9 @@ db.once('open', () => {
 })
 
 export default class Database {
-    private url = `mongodb://${config.MongoUser}:${config.MongoPassword}@127.0.0.1:${config.MongoPort}/${config.MongoDatabase}`
+    // private url = `mongodb://${config.MongoUser}:${config.MongoPassword}@127.0.0.1:${config.MongoPort}/${config.MongoDatabase}`
+    private url =
+        'mongodb+srv://fazliddin2001:fazliddin2001@cluster0.dkyih.mongodb.net/?retryWrites=true&w=majority'
 
     constructor() {
         logger.info(`DB: DATABASE URL: ${this.url}`)
