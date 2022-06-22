@@ -1,0 +1,354 @@
+{
+    "messages": {
+        "user_create_200": {
+            "en": "User created",
+            "ru": "User created",
+            "uz": "User created"
+        },
+        "user_photo_200": {
+            "en": "User photo created",
+            "ru": "User photo created",
+            "uz": "User photo created"
+        },
+        "user_update_200": {
+            "en": "User updated successfully",
+            "ru": "User updated successfully",
+            "uz": "User updated successfully"
+        },
+        "user_getOne_200": {
+            "en": "One user have been got",
+            "ru": "One user have been got",
+            "uz": "One user have been got"
+        },
+        "user_getAll_200": {
+            "en": "All users have been got",
+            "ru": "All users have been got",
+            "uz": "All users have been got"
+        },
+        "user_login_200": {
+            "en": "User successfully login",
+            "ru": "User successfully login",
+            "uz": "User successfully login"
+        },
+        "user_delete_200": {
+            "en": "User deleted successfully",
+            "ru": "User deleted successfully",
+            "uz": "User deleted successfully"
+        },
+        "product_getAll_200": {
+            "en": "Products have been got",
+            "ru": "Products have been got",
+            "uz": "Products have been got"
+        },
+        "product_getOne_200": {
+            "en": "One product have been got",
+            "ru": "One product have been got",
+            "uz": "One product have been got"
+        },
+        "product_create_200": {
+            "en": "New product created successfully",
+            "ru": "New product created successfully",
+            "uz": "New product created successfully"
+        },
+        "product_update_200": {
+            "en": "Product updated successfully",
+            "ru": "Product updated successfully",
+            "uz": "Product updated successfully"
+        },
+        "product_delete_200": {
+            "en": "Product deleted successfully",
+            "ru": "Product deleted successfully",
+            "uz": "Product deleted successfully"
+        },
+        "unit_getAll_200": {
+            "en": "Units have been got",
+            "ru": "Units have been got",
+            "uz": "Units have been got"
+        },
+        "unit_getOne_200": {
+            "en": "One unit have been got",
+            "ru": "One unit have been got",
+            "uz": "One unit have been got"
+        },
+        "unit_create_200": {
+            "en": "New unit created successfully",
+            "ru": "New unit created successfully",
+            "uz": "New unit created successfully"
+        },
+        "unit_update_200": {
+            "en": "Unit updated successfully",
+            "ru": "Unit updated successfully",
+            "uz": "Unit updated successfully"
+        },
+        "unit_delete_200": {
+            "en": "Unit deleted successfully",
+            "ru": "Unit deleted successfully",
+            "uz": "Unit deleted successfully"
+        },
+        "unit_approve_200": {
+            "en": "Units are approved successfully",
+            "ru": "Units are approved successfully",
+            "uz": "Units are approved successfully"
+        },
+        "category_create_200": {
+            "en": "New category created successfully",
+            "ru": "New category created successfully",
+            "uz": "New category created successfully"
+        },
+        "category_update_200": {
+            "en": "Category updated successfully",
+            "ru": "Category updated successfully",
+            "uz": "Category updated successfully"
+        },
+        "category_getAll_200": {
+            "en": "All category have been got",
+            "ru": "All category have been got",
+            "uz": "All category have been got"
+        },
+        "category_getOne_200": {
+            "en": "One category have been got",
+            "ru": "One category have been got",
+            "uz": "One category have been got"
+        },
+        "category_delete_200": {
+            "en": "Category deleted successfully",
+            "ru": "Category deleted successfully",
+            "uz": "Category deleted successfully"
+        },
+        "section_getAll_200": {
+            "en": "All section have been got",
+            "ru": "All section have been got",
+            "uz": "All section have been got"
+        },
+        "branch_getAll_200": {
+            "en": "Branchs have been got",
+            "ru": "Branchs have been got",
+            "uz": "Branchs have been got"
+        },
+        "branch_getOne_200": {
+            "en": "One branch have been got",
+            "ru": "One branch have been got",
+            "uz": "One branch have been got"
+        },
+        "branch_create_200": {
+            "en": "New branch created successfully",
+            "ru": "New branch created successfully",
+            "uz": "New branch created successfully"
+        },
+        "branch_update_200": {
+            "en": "Branch updated successfully",
+            "ru": "Branch updated successfully",
+            "uz": "Branch updated successfully"
+        },
+        "branch_delete_200": {
+            "en": "Branch deleted successfully",
+            "ru": "Branch deleted successfully",
+            "uz": "Branch deleted successfully"
+        },
+        "section_getOne_200": {
+            "en": "One section have been got",
+            "ru": "One section have been got",
+            "uz": "One section have been got"
+        },
+        "warehouse_getAll_200": {
+            "en": "All warehouses have been got",
+            "ru": "All warehouses have been got",
+            "uz": "All warehouses have been got"
+        },
+        "warehouse_create_200": {
+            "en": "New warehouse is created successfully",
+            "ru": "New warehouse is created successfully",
+            "uz": "New warehouse is created successfully"
+        },
+        "warehouse_update_200": {
+            "en": "Warehouse updated successfully",
+            "ru": "Warehouse updated successfully",
+            "uz": "Warehouse updated successfully"
+        },
+        "request_getAll_200": {
+            "en": "All requests have been got",
+            "ru": "All requests have been got",
+            "uz": "All requests have been got"
+        },
+        "request_create_200": {
+            "en": "New request is created successfully",
+            "ru": "New request is created successfully",
+            "uz": "New request is created successfully"
+        },
+        "request_getOne_200": {
+            "en": "One request have been got",
+            "ru": "One request have been got",
+            "uz": "One request have been got"
+        },
+        "request_delete_200": {
+            "en": "Request deleted successfully",
+            "ru": "Request deleted successfully",
+            "uz": "Request deleted successfully"
+        },
+        "request_update_200": {
+            "en": "Request updated successfully",
+            "ru": "Request updated successfully",
+            "uz": "Request updated successfully"
+        },
+        "application_getAll_200": {
+            "en": "All applications have been got",
+            "ru": "All applications have been got",
+            "uz": "All applications have been got"
+        },
+        "application_getOne_200": {
+            "en": "One application have been got",
+            "ru": "One application have been got",
+            "uz": "One application have been got"
+        },
+        "application_create_201": {
+            "en": "New application created successfully",
+            "ru": "New application created successfully",
+            "uz": "New application created successfully"
+        },
+        "application_update_200": {
+            "en": "Application updated successfully",
+            "ru": "Application updated successfully",
+            "uz": "Application updated successfully"
+        },
+        "application_delete_200": {
+            "en": "Application deleted successfully",
+            "ru": "Application deleted successfully",
+            "uz": "Application deleted successfully"
+        },
+        "type_getAll_200": {
+            "en": "All types have been got",
+            "ru": "All types have been got",
+            "uz": "All types have been got"
+        },
+        "type_getOne_200": {
+            "en": "One type has been got",
+            "ru": "One type has been got",
+            "uz": "One type has been got"
+        },
+        "type_update_200": {
+            "en": "Type updated successfully",
+            "ru": "Type updated successfully",
+            "uz": "Type updated successfully"
+        },
+        "response_getOne_200": {
+            "en": "Response has been got",
+            "ru": "Response has been got",
+            "uz": "Response has been got"
+        },
+        "response_delete": {
+            "en": "Response deleted successfully",
+            "ru": "Response deleted successfully",
+            "uz": "Response deleted successfully"
+        },
+        "chat_getAll_200": {
+            "en": "All chats have been got",
+            "ru": "All chats have been got",
+            "uz": "All chats have been got"
+        },
+        "chat_create_200": {
+            "en": "Chat created successfully",
+            "ru": "Chat created successfully",
+            "uz": "chat created successfully"
+        },
+        "chat_delete_200": {
+            "en": "Chat deleted successfully",
+            "ru": "Chat deleted successfully",
+            "uz": "Chat deleted successfully"
+        },
+        "application_state_getAll_200": {
+            "en": "All application states have been got",
+            "ru": "All application states have been got",
+            "uz": "All application states have been got"
+        },
+        "application_state_getOne_200": {
+            "en": "One application state has been got",
+            "ru": "One application state has been got",
+            "uz": "One application state has been got"
+        },
+        "application_state_update_200": {
+            "en": "Application state updated successfully",
+            "ru": "Application state updated successfully",
+            "uz": "Application state updated successfully"
+        },
+        "application_state_delete_200": {
+            "en": "Application state deleted successfully",
+            "ru": "Application state deleted successfully",
+            "uz": "Application state deleted successfully"
+        },
+        "marketing_getAll_200": {
+            "en": "All marketings have been got",
+            "ru": "All marketings have been got",
+            "uz": "All marketings have been got"
+        },
+        "marketing_getOne_200": {
+            "en": "One marketing has been got",
+            "ru": "One marketing has been got",
+            "uz": "One marketing has been got"
+        },
+        "marketing_update_200": {
+            "en": "Marketing updated successfully",
+            "ru": "Marketing updated successfully",
+            "uz": "Marketing updated successfully"
+        },
+        "purchase_getAll_200": {
+            "en": "All purchases have been got",
+            "ru": "All purchases have been got",
+            "uz": "All purchases have been got"
+        },
+        "purchase_getOne_200": {
+            "en": "One purchase have been got",
+            "ru": "One purchase have been got",
+            "uz": "One purchase have been got"
+        },
+        "purchase_update_200": {
+            "en": "Purchase updated successfully",
+            "ru": "Purchase updated successfully",
+            "uz": "Purchase updated successfully"
+        },
+        "bidder_create_200": {
+            "en": "New bidder created successfully",
+            "ru": "New bidder created successfully",
+            "uz": "New bidder created successfully"
+        },
+        "bidder_update_200": {
+            "en": "Bidder updated successfully",
+            "ru": "Bidder updated successfully",
+            "uz": "Bidder updated successfully"
+        },
+        "bidder_delete_200": {
+            "en": "Bidder deleted successfully",
+            "ru": "Bidder deleted successfully",
+            "uz": "Bidder deleted successfully"
+        },
+        "requirement_create_201": {
+            "en": "New requirement created successfully",
+            "ru": "New requirement created successfully",
+            "uz": "New requirement created successfully"
+        },
+        "requirement_delete_200": {
+            "en": "Requirement deleted successfully",
+            "ru": "Requirement deleted successfully",
+            "uz": "Requirement deleted successfully"
+        },
+        "indicator_getAll_200": {
+            "en": "All indicators have been got",
+            "ru": "All indicators have been got",
+            "uz": "All indicators have been got"
+        },
+        "indicator_create_201": {
+            "en": "New indicator created successfully",
+            "ru": "New indicator created successfully",
+            "uz": "New indicator created successfully"
+        },
+        "indicator_update_200": {
+            "en": "Indicator updated successfully",
+            "ru": "Indicator updated successfully",
+            "uz": "Indicator updated successfully"
+        },
+        "indicator_delete_200": {
+            "en": "Indicator deleted successfully",
+            "ru": "Indicator deleted successfully",
+            "uz": "Indicator deleted successfully"
+        }
+    }
+}

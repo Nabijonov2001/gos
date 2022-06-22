@@ -1,0 +1,199 @@
+{
+    "error_messages": {
+        "auth_401": {
+            "en": "Authentication denied",
+            "ru": "Authentication denied",
+            "uz": "Authentication denied"
+        },
+        "admin_403": {
+            "en": "You are not allowed to this action",
+            "ru": "You are not allowed to this action",
+            "uz": "You are not allowed to this action"
+        },
+        "product_404": {
+            "en": "Product is not found",
+            "ru": "Product is not found",
+            "uz": "Product is not found"
+        },
+        "product_update_400": {
+            "en": "Bad request when updating product",
+            "ru": "Bad request when updating product",
+            "uz": "Bad request when updating product"
+        },
+        "category_404": {
+            "en": "Category is not found",
+            "ru": "Category is not found",
+            "uz": "Category is not found"
+        },
+        "category_403": {
+            "en": "You are not allowed to this action",
+            "ru": "You are not allowed to this action",
+            "uz": "You are not allowed to this action"
+        },
+        "unit_404": {
+            "en": "Unit is not found",
+            "ru": "Unit is not found",
+            "uz": "Unit is not found"
+        },
+        "user_403": {
+            "en": "You are not allowed to this action",
+            "ru": "You are not allowed to this action",
+            "uz": "You are not allowed to this action"
+        },
+        "user_photo_400": {
+            "en": "Bad request when photo upload",
+            "ru": "Bad request when photo upload",
+            "uz": "Bad request when photo upload"
+        },
+        "unit_400": {
+            "en": "Bad request when creating unit",
+            "ru": "Bad request when creating unit",
+            "uz": "Bad request when creating unit"
+        },
+        "warehouse_404": {
+            "en": "Warehouse is not found",
+            "ru": "Warehouse is not found",
+            "uz": "Warehouse is not found"
+        },
+        "user_404": {
+            "en": "User is not found",
+            "ru": "User is not found",
+            "uz": "User is not found"
+        },
+        "category_update_400": {
+            "en": "Bad request to update category",
+            "ru": "Bad request to update category",
+            "uz": "Bad request to update category"
+        },
+        "request_404": {
+            "en": "Request is not found",
+            "ru": "Request is not found",
+            "uz": "Request is not found"
+        },
+        "request_create_400": {
+            "en": "Bad request when creating request",
+            "ru": "Bad request when creating request",
+            "uz": "Bad request when creating request"
+        },
+        "section_404": {
+            "en": "Section is not found",
+            "ru": "Section is not found",
+            "uz": "Section is not found"
+        },
+        "branch_404": {
+            "en": "Branch is not found",
+            "ru": "Branch is not found",
+            "uz": "Branch is not found"
+        },
+        "branch_403": {
+            "en": "Branch cannot be deleted",
+            "ru": "Branch cannot be deleted",
+            "uz": "Branch cannot be deleted"
+        },
+        "application_404": {
+            "en": "Application is not found",
+            "ru": "Application is not found",
+            "uz": "Application is not found"
+        },
+        "application_update_403": {
+            "en": "Application cannot be updated",
+            "ru": "Application cannot be updated",
+            "uz": "Application cannot be updated"
+        },
+        "application_400": {
+            "en": "Bad request on application",
+            "ru": "Bad request on application",
+            "uz": "Bad request on application"
+        },
+        "application_state_400": {
+            "en": "Bad request on application state",
+            "ru": "Bad request on application state",
+            "uz": "Bad request on application state"
+        },
+        "application_state_404": {
+            "en": "Application state is not found",
+            "ru": "Application state is not found",
+            "uz": "Application state is not found"
+        },
+        "application_state_403": {
+            "en": "You are not allowed to update application state",
+            "ru": "You are not allowed to update application state",
+            "uz": "You are not allowed to update application state"
+        },
+        "type_404": {
+            "en": "Type is not found",
+            "ru": "Type is not found",
+            "uz": "Type is not found"
+        },
+        "response_404": {
+            "en": "Response is not found",
+            "ru": "Response is not found",
+            "uz": "Response is not found"
+        },
+        "marketing_404": {
+            "en": "Marketing is not found",
+            "ru": "Marketing is not found",
+            "uz": "Marketing is not found"
+        },
+        "purchase_404": {
+            "en": "Purchase is not found",
+            "ru": "Purchase is not found",
+            "uz": "Purchase is not found"
+        },
+        "purchase_update_400": {
+            "en": "Bad request when updating purchase",
+            "ru": "Bad request when updating purchase",
+            "uz": "Bad request when updating purchase"
+        },
+        "purchase_update_403": {
+            "en": "You are not allowed to update purchase",
+            "ru": "You are not allowed to update purchase",
+            "uz": "You are not allowed to update purchase"
+        },
+        "bidder_404": {
+            "en": "Bidder is not found",
+            "ru": "Bidder is not found",
+            "uz": "Bidder is not found"
+        },
+        "bidder_update_403": {
+            "en": "You are not allowed to update bidder",
+            "ru": "You are not allowed to update bidder",
+            "uz": "You are not allowed to update bidder"
+        },
+        "bidder_delete_403": {
+            "en": "You are not allowed to delete bidder",
+            "ru": "You are not allowed to delete bidder",
+            "uz": "You are not allowed to delete bidder"
+        },
+        "requirement_404": {
+            "en": "Requirement is not found",
+            "ru": "Requirement is not found",
+            "uz": "Requirement is not found"
+        },
+        "requirement_create_400": {
+            "en": "Bad request when creating requirement",
+            "ru": "Bad request when creating requirement",
+            "uz": "Bad request when creating requirement"
+        },
+        "indicator_404": {
+            "en": "Indicator is not found",
+            "ru": "Indicator is not found",
+            "uz": "Indicator is not found"
+        },
+        "indicator_for_requirement_exists": {
+            "en": "Indicator for requirement exists",
+            "ru": "Indicator for requirement exists",
+            "uz": "Indicator for requirement exists"
+        },
+        "indicator_update_400": {
+            "en": "Bad request when updating indicator",
+            "ru": "Bad request when updating indicator",
+            "uz": "Bad request when updating indicator"
+        },
+        "indicator_delete_400": {
+            "en": "Bad request when deleting indicator",
+            "ru": "Bad request when deleting indicator",
+            "uz": "Bad request when deleting indicator"
+        }
+    }
+}
